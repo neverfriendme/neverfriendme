@@ -1,2 +1,1 @@
-I prefer to work alone
-im a begginer
+I would call myself an ameteur in python
