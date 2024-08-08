@@ -1,1 +1,1 @@
-I would call myself an ameteur in python
+I would call myself an amateur in coding
